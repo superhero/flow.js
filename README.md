@@ -25,4 +25,4 @@ Tools to control asynchronous flow
 
 ## Example
 
-***Not ready for production yet... Example will follow once it is...***
+Not ready for production...
