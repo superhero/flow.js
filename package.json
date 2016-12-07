@@ -1,0 +1,19 @@
+{
+  "name"        :  "@superhero/flow",
+  "version"     :  "0.0.1",
+  "description" :  "control asynchronous flow tools",
+  "repository"  :  "git@github.com:superhero/js.flow.git",
+  "main"        :  "lib/flow.js",
+  "license"     :  "MIT",
+  "keywords"    : ["control","flow","waterfall","parallel","async","asynchronous"],
+  "author"      :
+  {
+    "name"  : "Erik Landvall",
+    "email" : "erik@landvall.se",
+    "url"   : "http://erik.landvall.se"
+  },
+  "dependencies":
+  {
+    "@superhero/debug": "*"
+  }
+}
