@@ -1,6 +1,6 @@
 {
   "name"        :  "@superhero/flow",
-  "version"     :  "0.0.3",
+  "version"     :  "0.1.1",
   "description" :  "control asynchronous flow tools",
   "repository"  :  "git@github.com:superhero/js.flow.git",
   "main"        :  "lib/flow.js",
