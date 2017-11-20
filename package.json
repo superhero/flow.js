@@ -1,6 +1,6 @@
 {
   "name"        :  "@superhero/flow",
-  "version"     :  "0.3.5",
+  "version"     :  "0.3.6",
   "description" :  "control asynchronous flow tools",
   "repository"  :  "git@github.com:superhero/js.flow.git",
   "main"        :  "lib/flow.js",
@@ -14,6 +14,6 @@
   },
   "dependencies":
   {
-    "@superhero/debug": "1.0.2"
+    "@superhero/debug": "1.0.4"
   }
 }
